@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow - Gemini Interpreter",
+  "description": "A high-performance real-time speech translator powered by Gemini 2.5 Flash. It listens to your voice and speaks back the translation in your chosen language with iOS-inspired aesthetics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
